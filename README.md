@@ -1,11 +1,4 @@
-
-<div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/usamacoder/usamacoder/main/banner.jpg" alt="cover" />
-</div>
-
-</p>
-<div size='20px'> Hi! My name is Muhammad Usama. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+<div size='20px'> Hi! My name is Muhammad Usama. Thank You for taking the time to view my GitHub Profile :smile: </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
